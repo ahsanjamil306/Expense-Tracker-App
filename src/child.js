@@ -46,7 +46,7 @@ function Child() {
     return (
         <div className="container">
 
-            <h1 className="text-center">Expense Tracker</h1>
+            <h1 className="text-center">Expense Tracker By AHSAN JAMIL</h1>
 
             <h3>YOUR BALANCE <br /> ${getIncome() + getExpense()}</h3>
 
