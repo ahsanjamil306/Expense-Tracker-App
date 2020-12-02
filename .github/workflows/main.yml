@@ -42,4 +42,4 @@ jobs:
         run: npm install -g surge
       
       - name: deploying on surge
-        run: surge ./build http://expense-racter-app.surge.sh/ --token ${{ secrets.SurgeToken }}
+        run: surge ./build http://expense-racter-app.surge.sh/ --token ${{ secrets.SURGE_TOKEN }}
