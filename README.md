@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Here is the link you can test it on live
 
-Expense-racter-app.surge.sh
+http://expense-racter-app.surge.sh/
