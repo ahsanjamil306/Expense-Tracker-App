@@ -52,8 +52,8 @@ function Child() {
 
             <div className="expense-container">
 
-                <h3>INCOME  <br /> ${getIncome()}</h3>
-                <h3>EXPENSE  <br /> ${getExpense()}</h3>
+                <h3 className="income">INCOME  <br /> ${getIncome()}</h3>
+                <h3 className="expense">EXPENSE  <br /> ${getExpense()}</h3>
             </div>
 
             <h3>History</h3>
